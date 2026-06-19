@@ -1,0 +1,8 @@
+{
+  "name": "Walkie Talkie",
+  "description": "500m offline walkie talkie using Nearby Connections.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
